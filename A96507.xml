@@ -1,0 +1,593 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Truths triumph, or Treachery anatomized, being an impartiall discovery of the false, and treacherous information of M. Masterson, pretended minister of Christ at Shoreditch, against L.C.J. Lilburne, and I. Wildman, at the Lords Barre, January 18. 1647. concerning a meeting of severall honest men, in East Smithfield, Ian. 17. &amp;c. In relation to which information, the said L.C. Lilburne stands committed to the Tower, and J. Wildman to the Fleet. With a true narrative of all the passages and discourses that passed at the said meeting, / as it was delivered at the Bar of the House of Commons, by J. Wildman, Ian. 19. 1647. Iohn VVildman.</title>
+            <author>Wildman, John, Sir, 1621?-1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96507</idno>
+            <idno type="STC">Wing W2173</idno>
+            <idno type="STC">Thomason E520_33</idno>
+            <idno type="STC">ESTC R206186</idno>
+            <idno type="EEBO-CITATION">99865362</idno>
+            <idno type="PROQUEST">99865362</idno>
+            <idno type="VID">117602</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117602)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 81:E520[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Truths triumph, or Treachery anatomized, being an impartiall discovery of the false, and treacherous information of M. Masterson, pretended minister of Christ at Shoreditch, against L.C.J. Lilburne, and I. Wildman, at the Lords Barre, January 18. 1647. concerning a meeting of severall honest men, in East Smithfield, Ian. 17. &amp;c. In relation to which information, the said L.C. Lilburne stands committed to the Tower, and J. Wildman to the Fleet. With a true narrative of all the passages and discourses that passed at the said meeting, / as it was delivered at the Bar of the House of Commons, by J. Wildman, Ian. 19. 1647. Iohn VVildman.</title>
+                  <author>Wildman, John, Sir, 1621?-1693.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ia. Hornish,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Feb.I. 1647 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Imprisonment --  Early works to 1800.</term>
+               <term>Masterson, George, fl. 1647.</term>
+               <term>Civil rights --  England --  Sources.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117602:1" rendition="simple:additions"/>
+            <p>Truths triumph, OR Treachery anatomized, BEING An impartiall Diſcovery of the falſe, and treacherous infor<g ref="char:EOLhyphen"/>mation of M. <hi>Maſterſon,</hi> pretended Miniſter of <hi>Chriſt</hi> at <hi>Shore<g ref="char:EOLhyphen"/>ditch,</hi> againſt L. C. <hi>J. Lilburne,</hi> and I. <hi>Wildman,</hi> at the Lords Barre, January 18. 1647. concerning a mee<g ref="char:EOLhyphen"/>ting of ſeverall honeſt men, in Eaſt Smithfield, <hi>Ian.</hi> 17. <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>In relation to which</hi> Information, <hi>the ſaid L. C. Lilburne</hi> ſtands commit<g ref="char:EOLhyphen"/>ted to the Tower, and J. <hi>Wildman</hi> to the Fleet.</p>
+            <p>WITH <hi>A true Narrative of all the Paſsages and Diſcourſes that paſſed at the ſaid meeting; as it was delivered at the Bar of the</hi> Houſe of <hi>Commons, by</hi> J. Wildman, Ian. 19. 1647.</p>
+            <p>Veritas non querit angulos;</p>
+            <l>
+               <hi>He that is of God, loveth the light. &amp;c.</hi>
+            </l>
+            <l>
+               <hi>The Righteous is as bold as a Lyon.</hi>
+            </l>
+            <p>IOHN WILDMAN.</p>
+            <p>
+               <hi>London</hi> Printed for <hi>Ia. Horniſh,</hi> Feb. 1. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="pamphlet">
+            <pb facs="tcp:117602:2"/>
+            <pb n="3" facs="tcp:117602:2"/>
+            <head>An impartiall Relation of all the paſſages and diſ<g ref="char:EOLhyphen"/>courſes at a meeting of ſome Honeſt men in <hi>Eaſt-Smithfield,</hi> up<g ref="char:EOLhyphen"/>on the 17. of this preſent <hi>Ianuary,</hi> in reference unto which, <hi>Lievt. Col. Iohn Lilburn,</hi> and Mr. <hi>Iohn Wildman</hi> ſtand committed, one to the <hi>Tower,</hi> and the other to the <hi>Fleet.</hi> As it was made at the Houſe of Commons Barre on <hi>January</hi> 19.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N this generation, <hi>Dicere quod nolo miſerum, quod volo &amp; debeo pericu<g ref="char:EOLhyphen"/>loſum,</hi> but if I periſh I periſh. <hi>Pereundum in licitis,</hi> that mans death is honourable, whoſe integritie is the ſword that ſlayes him. I hope I am no leſſe provided of a ſafe retreat, then the moſt adored <hi>Grandee</hi> of our <hi>times,</hi> a pillow of <hi>peace</hi> is prepared in my moſt contemptible grave, and the gate of that bleſſed ſecure Paradice of full communion with the Father is open for me. <hi>Et contempſit omnes, ille qui mortem prius;</hi> he that contemns Death ſcornes both hopes, and feares, thoſe only affections which poſſeſſe mens ſpirits with baſeneſſe or cowardize.</p>
+            <p>Surely he that is no great Aſtrologer may iudge by the Aſpect of the Starrs in this Horizon, that this Engliſh Aire agrees beſt with the bodies of <hi>Camelions, Pa<g ref="char:EOLhyphen"/>raſites, Time ſervers,</hi> &amp; <hi>implicite beleevers,</hi> ſuch as change their formes. <hi>Toties quoti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> annulus vertitur politicus.</hi> And therefore it would be a curteſie beyond my enemies intentions, if they would ſend me poſt to a <hi>purer Climate.</hi>
+            </p>
+            <p>But it may be ſome will call my <hi>Innocence Impudence,</hi> and ignobly impute my <hi>juſtification</hi> of my ſelf, to my <hi>effronted boldneſſe:</hi> But if I had regarged the barking of every <hi>Cerberus,</hi> I had now been deafe. <hi>Si ſat eſſet accuſaſſe quis innocens erit;</hi> In<g ref="char:EOLhyphen"/>deed its the cry of many Sicophants of our age, that its impudence to queſtion the <hi>judgment of Parliament men,</hi> but I was never yet perſwaded that they all poſſeſſed <hi>Peters Chaire,</hi> or that I was bound to beleeve my actions to be errours upon their word.</p>
+            <p>Yet I am ſo devoted to ſupport the AUTHORITY and honour of the <hi>Com<g ref="char:EOLhyphen"/>mons in Parliament,</hi> that were my ſingle intereſt only concerned, rather then J would diſcover one <hi>ſtaine of injuſtice</hi> more in the robe of their honour, I would on<g ref="char:EOLhyphen"/>ly aſſert my innocency with a dumb eloquence, <hi>manibus ad ſydera tenſis:</hi> But the fathers abuſe and danger looſened the ſtrings of the dumb childs tongue: There is an invenomed arrow ſhot by my impriſonment, into the heart of the <hi>common cauſe of my deareſt Country,</hi> the black cloud of infamy caſt upon my name, diſho<g ref="char:EOLhyphen"/>nours the cauſe which I profeſſe, to maintaine and in the conſequence may divert well minded men from its proſecution: and beſide, the nation hath received no ſuperficiall wound by my Arbitrary reſtraint: There was neither witneſſe nor e<g ref="char:EOLhyphen"/>vidence
+<pb n="3" facs="tcp:117602:3"/> againſt me of a <hi>Crime,</hi> or <hi>a legall tranſgreſſion</hi> in the leaſt punctillo: The Informer himſelf comming face to face at the <hi>Commons barre,</hi> accuſed me of no<g ref="char:EOLhyphen"/>thing in <hi>Law Criminall;</hi> and yet that I ſhould be diſſeized of my <hi>Liberty,</hi> and char<g ref="char:EOLhyphen"/>ged in the warrant with no leſſe then <hi>Treaſonable practiſes againſt the State,</hi> whereby my <hi>life, credit,</hi> and <hi>eſtate,</hi> are all indangered, this is a <hi>Preſident,</hi> whoſe utmoſt evill conſequence to the freedome, life, and eſtate of every Engliſh man. If I ſhould attempt to demonſtrate. J ſhould with the painter that could not expreſſe his grief for his daughter. Draw the <hi>Curtaine.</hi> But let me firſt give you an impartiall Narra<g ref="char:EOLhyphen"/>tive of my cauſe.</p>
+            <p>On <hi>Wedneſday</hi> the 19. of this inſtant <hi>Ianuary,</hi> I had intelligence as I was wal<g ref="char:EOLhyphen"/>king in <hi>Weſtminſter Hall,</hi> that J was inquired for by the Serjeant at Armes; there<g ref="char:EOLhyphen"/>upon J voluntarily repaired to the Houſe of Commons doore, and preſently I was called to the barre, and the Speaker asked Mr. <hi>Maſterſon</hi> what he had to ſay againſt me, to which he anſwered in words to this effect, <hi>viz.</hi>
+            </p>
+            <p>That the diſcourſe at the meeting in <hi>Eaſt-Smithfield</hi> was interchangeable, yet this he remembred, that I ſaid <hi>ſome Lords</hi> had ſent to me the ſame day of the mee<g ref="char:EOLhyphen"/>ting, to tell me, that they were willing to lay down their priviledges <hi>of being free from Arreſts,</hi> and to be ſubiect to the <hi>Law,</hi> and that they would be content to part with their <hi>Legiſlative and Law-giving power</hi> from their <hi>Poſterities,</hi> ſo that it ſhould not diſcend to their <hi>Heires,</hi> provided they might inioy it for their own <hi>lives.</hi>
+            </p>
+            <p>Likewiſe the <hi>Informer</hi> ſaid, that at the time of his comming into the meeting, I was ſpeaking about tumults of the poore in <hi>Wiltſhire.</hi>
+            </p>
+            <p>Hereupon the <hi>Speaker</hi> asked me what I anſwered to them, and then I ſpake to this purpoſe, if not in ſo many words. <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Mr. Speaker,</hi> I come not herein reference to this <hi>Informer,</hi> or what he hath laid to my charge, neither am I here, by vertue of any <hi>legall Warrant,</hi> for I received none; but I am here only in reſpect to this <hi>Honourable Houſe,</hi> to attend its pleaſure; but as to this <hi>Informer;</hi> if that were <hi>truth,</hi> and a legall <hi>Crime</hi> which he informes a<g ref="char:EOLhyphen"/>gainſt me, I humbly conceive it comes not under the cognizance <note n="*" place="margin">The cogni<g ref="char:EOLhyphen"/>zance of any offence, except the offence of Iudges, or ad<g ref="char:EOLhyphen"/>miniſtrators of juſtice, doth not originally or in the firſt place pertaine to the Parlia. but informati<g ref="char:EOLhyphen"/>on ought to be given to ſome Iuſtice of the peace in the County where the offence is committed that he may proceed accor<g ref="char:EOLhyphen"/>ding to law, that ſo in caſe of iniuſtice or undue procee<g ref="char:EOLhyphen"/>dings the par<g ref="char:EOLhyphen"/>ty accuſed may have his reme<g ref="char:EOLhyphen"/>dy and repara<g ref="char:EOLhyphen"/>tions by Law, whereas if the Parl. take the firſt notice of any ſuppoſed offence and commit any perſon, he is under an impoſſibility of reparations in a legall courſe, what iniuſtice ſoe<g ref="char:EOLhyphen"/>ver he ſuffers.</note> of th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Honou<g ref="char:EOLhyphen"/>rable Houſe; for I conceive it farre beneath the Authority of this Honourable Houſe <hi>to be executers of Law,</hi> ſeeing you are of <hi>right</hi> the <hi>ſole Legiſlators or Law-ma<g ref="char:EOLhyphen"/>kers:</hi> but though what this Informer ſaith againſt me were a <hi>Crime,</hi> and did come under the cognizance of this Honourable Houſe; yet I conceive I were not obli<g ref="char:EOLhyphen"/>ged to anſwer, becauſe there is no <hi>legall Accuſation,</hi> but only a verball uncertaine relation of a diſcourſe at a meeting. I ſhall here adde the proof of this aſſertion, the Statute of 42. Ed. 3. c. 3. Which ſaith, <hi>Its aſſented and accorded for the good gover<g ref="char:EOLhyphen"/>nance of the Commons, that no man be put to anſwer without preſentment before Juſtices, or matter of Record, or by due proceſſe and writ originall according to the old Law of the land.</hi> And the Statute of 25. Ed. 3. 64. ſaith, <hi>That no man ſhall be taken by Petition or ſuggeſtion made to the King or his Councell</hi> (and the Parliament is his grand Councell) <hi>unleſſe it be by indictment, or preſentment of his good and lawfull people of the ſame neigh<g ref="char:EOLhyphen"/>bourhood where ſuch deeds be done, in due manner, or by proceſſe made by writ originall at the Common Law.</hi> See the Stat. of 37. of Ed. 3. c. 18. and Petition of Right Now to proceed I further added theſe words or the like.</p>
+            <pb n="4" facs="tcp:117602:3"/>
+            <p>
+               <hi>Mr. Speaker,</hi> I was borne in <hi>England,</hi> and the Lawes and Liberties of the Nation are my Birth-right, and I am ſo tender of thoſe Liberties, that I cannot, I dare not in conſcience ſo farre betray them, as to return anſwer to this <hi>Informer.</hi> Yet I owe ſo much reſpect to this honourable Houſe, that if you ſhall pleaſe to give me free<g ref="char:EOLhyphen"/>dome of ſpeech and audience, <hi>I</hi> ſhall ingeniouſly and impartially relate the matter of the diſcourſe which paſſed at the meeting on <hi>Ian.</hi> 17. for which <hi>I</hi> am accuſed, with all the circumſtances to the beſt of my remembrances.</p>
+            <p>Hereupon <hi>Mr. Speaker</hi> commanded me to withdraw, and the Houſe debated whether I ſhould be heard, and within half an houre I was called in againe to the Barre, and Mr. <hi>Speaker</hi> ſaid thus, <hi>Mr. Wildman,</hi> I am to tell you, that the Houſe commands you to return anſwer to what Mr. <hi>Maſterſon</hi> hath ſaid; unto whom I anſwered thus.</p>
+            <p>Mr. <hi>Speaker,</hi> I cannot, I dare not betray my liberty in anſwering to this <hi>Infor<g ref="char:EOLhyphen"/>mer,</hi> upon the reaſons which I have rendred, yet if this honourable Houſe pleaſe, I ſhall make a perfect relation of the buſineſſe in queſtion, and not being interrup<g ref="char:EOLhyphen"/>ted I proceeded thus.</p>
+            <p>Mr. <hi>Speaker</hi> it is truth, <hi>I</hi> was at the meeting in <hi>Eaſt-Smithfield</hi> on <hi>Monday</hi> laſt, and as I was informed, the principall occaſion was to ſatisfie ſome which were not ma<g ref="char:EOLhyphen"/>liciouſly, but conſcientiouſly ſcruplous, <hi>whether they ſhould any more petition this Honourable Houſe:</hi> the reaſon which was rendred, was, that they had <hi>wearied them<g ref="char:EOLhyphen"/>ſelves</hi> with <hi>petitioning,</hi> and notwithſtanding they had purchaſed their <hi>freedom</hi> with their <hi>blood,</hi> yet all their endeavours were fruitleſſe, and their perſons <hi>impriſoned</hi> and <hi>abuſed</hi> for <hi>petitioning,</hi> and ſometimes their <hi>Petitions burned.</hi>
+            </p>
+            <p>Theſe ſcruples I endeavoured to anſwer, firſt I undertook to prove that it was their duty to imploy all their power toward ſetling the freedomes of the Nation: whoſoever (ſaid I) improves not his power to preſerve that outward happineſſe which God hath in mercy given him. he rejects and diſpiſes the goodneſſe of God toward him. Now a mans libertie is a ſpeciall part of mans earthly happineſſe, and therefore its every mans duty to endeavour to his utmoſt to <hi>ſecure and ſetle his native freedomes;</hi> &amp; otherwiſe, all the miſeries which enſue to any man by the loſſ: or want of his native liberty, is brought upon himſelf, and it may be iuſtly ſaid to ſuch, <hi>you have deſtroyed your ſelves:</hi> Yet further (ſaid I,) its the command of God, that every man ſhould ſeek the good of his neighbour, and conſequently much more the good of the <hi>Nation.</hi> Its the eſſentiall property of the bleſſed God to com<g ref="char:EOLhyphen"/>municate of his goodneſſe univerſally, and no man ſhewes forth any luſtre of the image of God in him, unleſſe it be by doing good, and its made the Character of a man of <hi>worth or excellency,</hi> or <hi>a man approved of God,</hi> that he ſerved God in his ge<g ref="char:EOLhyphen"/>neration; and ſo its ſaid of <hi>Cornelius,</hi> he was a good man, that is, an uſefull man in the age wherein he lived: And further (ſaid I,) hath not God commanded us to relieve and help our neighbours oxen or Aſſes in any diſtreſſe, or being ſunk down under any burthen? and doth he not much more command us to endeavour the reliefe of the people of our Nation, whoſe backs are bowed down under their
+<pb n="4" facs="tcp:117602:4"/> heavie burthens? and wherefore (ſaid I) have God united people into a body or ſociety, or Nation? is't not for this? that every one ſhould be helpfull each to other and endeavour one anothers good mutually: and if one perſon may ſit ſtill, and ſuſpend all endeavours for the <hi>ſettlement</hi> of the <hi>Nation,</hi> by the ſame reaſon <hi>another</hi> and <hi>another</hi> may be wholly negligent alſo, and ſo throughout the Nation.</p>
+            <p>Further, I endeavoured to convince them, that it was their duty in this juncture of time. Now (ſaid I) the greateſt and moſt <hi>portentuous evill</hi> which threatens ſud<g ref="char:EOLhyphen"/>den <hi>deſtruction</hi> to the <hi>Nation,</hi> is the diviſions and diſtractions which daily increaſe and abound. And its the unqueſtionable duty of every man, to ſeek for <hi>peace</hi> and <hi>union</hi> if it be poſſible with every man; now it is not poſſible to effect or procure an <hi>union</hi> in the <hi>Nation,</hi> without clearing and ſecuring its <hi>freedomes:</hi> wherefore (ſaid J) have we <hi>contended each with other</hi> neer ſeaven years? Is it not for <hi>juſtice and freedom?</hi> Hath not the <hi>Kings Partizens</hi> pretended that they fought for their <hi>lawes and liber<g ref="char:EOLhyphen"/>ties?</hi> both parties have made the violation of <hi>thoſe,</hi> the ſeeming ground of their quarrell, and the ſecuring <hi>thoſe</hi> the only price of their <hi>blood;</hi> therfore its impoſſible there ſhould be union, unleſſe you diſcover <hi>even to your oppoſers</hi> in particular, what <hi>thoſe freedomes,</hi> and what thoſe <hi>rules of common iuſtice are,</hi> for which you have <hi>con<g ref="char:EOLhyphen"/>tended.</hi> Doubtleſſe (ſaid I) its the ignorance or miſunderſtanding of one another, that hath made the contention ſo bloody: if your oppoſers did underſtand that what you deſire, is as much for their <hi>freedome</hi> as <hi>your own,</hi> and that they ſhould inioy as great an influence of good as your ſelves, from thoſe <hi>principles of freedome</hi> which you deſire ſhould be eſtabliſhed; that bitterneſſe, malice and hatred which burnes now in their hearts againſt you, would then ceaſe: what hath been their cry (ſaid I) bnt this, that you know not what you would have, therefore if all of us would deſire friendly, loving meetings with our neighbours, and ſay to them, here is that which we account the <hi>price of our blood,</hi> the <hi>bottome of our deſires:</hi> had we but <hi>this,</hi> we ſhould never accoun<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any thing more worth blood; or the ingaging in <hi>a new warre:</hi> I beſeech you friends conſider whether thoſe our deſires concern not you and your <hi>Poſterities,</hi> as much as it concernes us: Let us con<g ref="char:EOLhyphen"/>ſider it in <hi>love,</hi> if this were done (I ſaid) I was confident, <hi>our ſad diſtractions would ſoone ceaſe.</hi> And here I added, that <hi>I</hi> judged it the wiſedome of thoſe, whoſoever they were, that drew the <hi>large Petition,</hi> that they inſerted no ſuch particular grie<g ref="char:EOLhyphen"/>vances, as might diſingage any conſiderable partie, and ſo continue our diſtracti<g ref="char:EOLhyphen"/>ons: For inſtance, <hi>Tythes</hi> are by many conceived to be a heavie burthen, yet the removall of them is not deſired in the large Petition, becauſe a conſiderable partie in the Kingdome hath much particular intereſt in them, and the removall of ſuch a <hi>particular grievance</hi> is not worth <hi>blood,</hi> or the hazzarding of a <hi>warre,</hi> by <hi>continu<g ref="char:EOLhyphen"/>ing our diviſions.</hi> Unto this J added; <hi>preſent neceſſitie</hi> did now call upon every man to ſtirre up all his ſtrength in endeavouring ſuch an <hi>union of the people in the princi<g ref="char:EOLhyphen"/>ples of common right and freedom;</hi> I told them that they felt by ſad experience, that <hi>trading</hi> was decayed, and the <hi>price of food ſo exceſſive,</hi> that it would even rend any pittifull heart to heare and ſee the <hi>cryes and teares of the poore,</hi> who profeſſe they are
+<pb n="5" facs="tcp:117602:4"/> almoſt readie to famiſh, and while our diviſions continue, and there be no ſettle<g ref="char:EOLhyphen"/>ment of the principles of <hi>freedome and iuſtice, trading</hi> will but more decay every day: Rumours and feares of <hi>Warre,</hi> and the <hi>Army</hi> comming now into the <hi>City,</hi> makes M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rchants unwilling to truſt their goods in the City, and exchange beyond ſea falles, and there will be no importing of goods, and then there will be no exporting and ſo the ſtaple commodities of the Kingdome which maintaines the conſtant trade, will not tend to the advantage of the <hi>labourers,</hi> and then moſt of the poore in the Kingdom which live by <hi>ſpinning, carding,</hi> &amp;c. will be ready to periſh by fa<g ref="char:EOLhyphen"/>mine: Upon this occaſion I told them what I heard at my Inn at the <hi>Sarrazens head in Friday ſtreet, viz.</hi> that ſome Clothiers of <hi>Wiltſhire</hi> came in, who profeſſed that trading was ſo dead, that ſome of them who ſet at work formerly a 100. did not now ſet at work above a dozen or the like, and that the poor did gather toge<g ref="char:EOLhyphen"/>ther in troops of 10. 20. 30. in the Roades, and ſeized upon Corne as it was carrying to market, and devided it among themſelves before the owners faces, telling them they could not ſtarve: and hereupon J inſerted that in probabilitie a ſuddain confu<g ref="char:EOLhyphen"/>ſion would follow, if a ſpeedie ſettlement were not procured.</p>
+            <p>But J further told them, that J conceived no other probable way of <hi>preventing a new warre</hi> with the <hi>Scots</hi> and other <hi>forraigners,</hi> but by uniting the people in the principles of common <hi>right and freedome,</hi> wherein all are equally concerned: and J ſaid, I believed it was intended that the <hi>large Petition</hi> ſhould be ſent into all parts of the Kingdome, that if it be poſſible all might joyn in thoſe deſires.</p>
+            <p>And if God ſhould be ſo propitious to this <hi>Nation,</hi> then the <hi>Scots</hi> would diſpaire of any <hi>Partizens or aſſiſtants amongſt us,</hi> and ſo would be more catious in adventu<g ref="char:EOLhyphen"/>ring to ingage in warre againſt us.</p>
+            <p>Now having thus convinced them of the neceſſity and their duty, to put forth their utmoſt vigor, in endeavouring the ſettlement of their freedomes. I alſo at<g ref="char:EOLhyphen"/>tempted to demonſtrate to them, that there was no <hi>legall, iustifiable way</hi> wherein they could ſeek for their freedomes, or redreſſe of their common grievances, <hi>but by petitioning this honourable Houſe.</hi> I told them there was no other <hi>viſible Authority</hi> to whom they could ſeek, or which is <hi>intruſted by the people</hi> with <hi>power to redreſſe their grievances,</hi> or to <hi>make</hi> or <hi>repeale Lawes,</hi> for the vindication, clearing, and ſecu<g ref="char:EOLhyphen"/>ring their <hi>native rights and liberties,</hi> and therefore <hi>their intereſt</hi> was involved and bound up in the <hi>intereſt of this houſe,</hi> and <hi>(though ſome Members of this Houſe, did not as we feared ſo intend pnblique good as we could wiſh)</hi> yet if this <hi>viſible authority</hi> was not <hi>ſupported</hi> and <hi>preſerved</hi> from contempt, a generall confuſion would follow, and the <hi>nation</hi> be laid waſt &amp; deſolate: and by theſe or words to this effect, the ſcruples were cleared.</p>
+            <p>After this there was occaſion offered accidentally to diſcourſe of the <hi>Lords Le<g ref="char:EOLhyphen"/>giſlative or lawgiving power,</hi> both of the <hi>rights,</hi> and of the <hi>miſchieſes</hi> which have en<g ref="char:EOLhyphen"/>ſued upon their <hi>exerciſe of it,</hi> and there I ſpake my opinion: I told them I conceived they had no <hi>legall right</hi> to ſuch a <hi>co-ordinate power in making Lawes</hi> with this <hi>Ho<g ref="char:EOLhyphen"/>nourable Houſe,</hi> and <hi>I</hi> induced for a proof the Declaration of this Houſe; wherein you have given us a tranſcription of the Kings <hi>Oath</hi> out of the <hi>Records,</hi> and averre
+<pb n="6" facs="tcp:117602:5"/> 
+               <hi>that the King is ſworn to paſſe and confirme by his authority, ſuch lawes as the people ſhall chuſe,</hi> 
+               <note n="*" place="margin">See their Rem. of <hi>May</hi> 26. 1642. book decl. pag. 712. 713. It was but a formality, that lawes have bin carried to the King, for his aſſent; for it was wont u<g ref="char:EOLhyphen"/>ſually to be done the laſt day of the Parl. and ſo his paſſing the Bills or lawes diſſolved the Parl. and ther<g ref="char:EOLhyphen"/>fore obſerve, when the King paſſed any Bill ſince this Parl. there is a pro<g ref="char:EOLhyphen"/>viſo in the Act that the paſ<g ref="char:EOLhyphen"/>ſing that Bill ſhall not diſ<g ref="char:EOLhyphen"/>ſolve the pre<g ref="char:EOLhyphen"/>ſent ſeſſion of Parl. See a little book of the manner of holding parl. pag. 54, 55. See the Arm. decl. of Iune 14. 1647 book decl. pag. 43.</note> or as in the old tranſlation. <hi>the folkes or Commons ſhall chuſe;</hi> whereby the <hi>Lords</hi> are <hi>totally excluded,</hi> from any intereſt in, or <hi>right</hi> to the <hi>Legiſlative power,</hi> ſee<g ref="char:EOLhyphen"/>ing they neither profeſſe themſelves to be <hi>Commoners perſonally,</hi> or to <hi>repreſent the Commons.</hi> And thence J inferred, that it was further evident from that <hi>Oath,</hi> that the <hi>King himſelf</hi> had no right to the <hi>Law-making power:</hi> for this Honourable Houſe hath aſſerted and proved, that he hath no <hi>legall power to diſſent:</hi> from <hi>the laws that you make;</hi> &amp; then its irrational to imagine that there need be any <hi>aſſent,</hi> or that it ſhould be of any validity: and hence J concluded that there was no colour <hi>of the Lords right to that power.</hi> They are <hi>created Lords</hi> ſolely by the <hi>Kings will,</hi> and ſit by vertue of his <hi>pattent,</hi> and the <hi>King himſelf being not intruſted with any ſhare in that ſupream lawgiving power,</hi> his <hi>pattents</hi> cannot inveſt the Lords with that <hi>power or truſt.</hi>
+            </p>
+            <p>And I yet further added, that the <hi>law giving power is arbitrary in its own nature,</hi> and to eſtate an arbitrary power in any whatſoever during <hi>life,</hi> is inconſiſtent with <hi>freedome,</hi> and with a <hi>iuſt government</hi> of a people, by written lawes, and renders any * State whereſoever it is, no other then a Tyranny, and the people no better then <hi>Vaſſalls:</hi> but much more is it incompatible with a <hi>ſhadow of freedome</hi> to have ſuch an arbitrary power <hi>diſcend in any</hi> Line from <hi>Generation</hi> to <hi>Generation forever.</hi> Yea I told them that I conceived this was contrary to the common light of nature, the very end of Government, and the expreſſe words of the Scripture. Its ſaid <hi>Rom.</hi> 13. 4. <hi>That the Magiſtrate is the Miniſter of God for good,</hi> now that implyes, that perſons which are intruſted with ſuch power, ought to be ſo qualified and accompliſhed, that they may be ſutable to exerciſe and improve their power for good, otherwiſe the very end of Government is ſubverted. Now how is it poſſi<g ref="char:EOLhyphen"/>ble that there ſhould be any aſſurance, that a father furniſhed and compleated with all excellencys, ſhall have an heire indowed with the leaſt abilitie or capaci<g ref="char:EOLhyphen"/>tie of governing? whats more common, then that the wiſeſt <hi>Salomon</hi> may have an unworthy <hi>Rehoboam</hi> for his ſucceſſour? no man can promiſe that the Lords Sons ſhall have either ſo much wiſedom or honeſty, as to be fi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Subjects of any power, much leſſe of that ſupream truſt of the Lawgiving power.</p>
+            <p>And as to the evills that have enſued upon the Lords exerciſe of that Law gi<g ref="char:EOLhyphen"/>ving power. I ſpake my opinion as freely; I told them, that in reaſon, their claim to that power, was the occaſion of all the innocent blood that hath been ſplit in England. Jf the Ordinance in <hi>Feb.</hi> 1642. for ſetling the Militia of the kingdome, had been put in execution when it was firſt ſent up to the Lords for their concur<g ref="char:EOLhyphen"/>rence, the King could never have raiſed an Army; but their aſſuming to them<g ref="char:EOLhyphen"/>ſelves a power co-ordinate with this Honourable Houſe, and then refuſing when this Honourable Houſe ſent againe, and againe, and againe, to paſſe that Ordi<g ref="char:EOLhyphen"/>nance; theſ etheir delayes, and preventions of ſetling the Militia gave both time and opportunity to the King to raiſe an Army; and then this Honourable Houſe was compelled for the peoples defence to raiſe an Armie alſo, and ingage in war.
+<pb n="7" facs="tcp:117602:5"/> 
+               <hi>I might have added, that the Lords did never then conſent to that Ordinance untill</hi> 
+               <note place="margin">See 1 part. book Decl. pag. 364, 548.</note> 
+               <hi>Mr.</hi> Hollis <hi>demanded in a manner the names of thoſe Lords at the barre, which would not concurre, and deſired that thoſe Lords which would joyne with the Commons to ſave the Kingdome, would take ſome courſe to diſcover themſelves, and alſo ſhewed them a Petition to the Commons, deſiring that ſuch Lords would ſit and vote with them as one intire</hi> (c) <hi>Body.</hi>
+            </p>
+            <p>But this I did adde, that we had moſt ſad experience now of late of the dange<g ref="char:EOLhyphen"/>rous conſequence of their claime to that Power, they expoſed the Kingdome a<g ref="char:EOLhyphen"/>gaine to <hi>Bloud</hi> and <hi>Confuſion</hi> by delaying ſo long to paſſe thoſe gallant <hi>Votes</hi> of this Honourable houſe againſt the King by that meanes the people which are diſ<g ref="char:EOLhyphen"/>contented at thoſe Votes, have time to ruminate and chew upon their diſcontents, and the fire of their diſpleaſure hath time to kindle, and no man knowes into what flames it may breake forth; and therefore I conceive there is no poſſible meanes to preſerve the Nation from ruine, unleſſe there be ſpeedy acting, and proceedings according to the good beginnings of this Honourable Houſe.</p>
+            <p>Some other diſcourſe happened accidentally about the reaſons of that ſuddaine <hi>Change</hi> which appeared in Lieut. Generall <hi>Cromwell,</hi> and Commiſſary Generall <hi>Ireton,</hi> that they now declare againſt any addreſſes to be made to the King, or received from him, whereas they have pleaded, <hi>That they were engaged to preſerve the Kings perſon, and eſtabliſh him in his juſt Power.</hi>
+            </p>
+            <p>Hereupon a ſtory was related by a Gentleman at the Meeting, to which I was an auditor, he ſaid, he had credible information, that a gallant honeſt Gentleman of the Houſe of Commons, whoſe father was a Knight, had certaine intelligence, <hi>That the King had promiſed Lieutenant Generall</hi> Cromwell, <hi>to give a blue Ribband and a George, and make him Earle of</hi> Eſſex. <hi>And that Commiſſary</hi> Ireton, <hi>ſhould be either Field-Marſhall or ſome ſuch great Officer in</hi> Ireland; <hi>and that his owne Son ſhould be Bod-chamber man to the Prince:</hi> And hereupon his Spirit was ſo moved, that hee reſolved he would rather become another <hi>Felton</hi> to <hi>Cromwell,</hi> then ſuffer his Country to be betrayed, and all honeſt men deſtroyed: And that he had pre<g ref="char:EOLhyphen"/>pared himſelfe with Piſtoll and Dagger for that purpoſe, onely hee revealed his mind to another Member of the Commons Houſe, which diſſwaded him from at<g ref="char:EOLhyphen"/>tempting the execution of his purpoſe; and that Lieutenant Generall <hi>Cromwell</hi> had intelligence of this, and preſently a <hi>Faſt</hi> or day of Humiliation was called, and ſo the great <hi>change</hi> enſued.</p>
+            <p>After this, I ſpake my thoughts to this effect; That I knew not what influ<g ref="char:EOLhyphen"/>ence any ſuch Circumſtances might have upon the ſpirit of Lieutenant Ge<g ref="char:EOLhyphen"/>nerall <hi>Cromwell,</hi> but I rather conceived that the change was upon this occaſion, <hi>viz.</hi> That the Presbyterian <hi>Scots,</hi> conſidering that Lieutenant Generall <hi>Crom<g ref="char:EOLhyphen"/>well</hi> was no friend to them, and that the King was poſſeſſed with deadly hatred againſt them; and having intelligence, that the King relyed upon the Lieutenant Generall to make his termes for him with this Honourable houſe, and well weighing the danger to which they were expoſed by two ſuch potent Enemies, or rather one ſuch impla<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>able oppoſer; backed with a potent Army, were inforced
+<pb n="8" facs="tcp:117602:6"/> in reſpect to their owne preſervation to attempt the breaking of that deſigne, and prevent the Kings comming in upon the Armies, or Lieutenant Generall his in<g ref="char:EOLhyphen"/>tereſt: thereupon, though they were no reall Friends to the Kings negative voyce, or to his pretended right to the <hi>Militia,</hi> and would not allow the King in their owne Kingdome a negative voyce to their Lawes in the leaſt <hi>Punctilio,</hi> nor the leaſt ſhadow of Power in diſpoſing of their <hi>Militia;</hi> yet a neceſſity was upon them to out-bid Lieutenant Gen. <hi>Cromwell,</hi> and to offer both a Negative voyce, and a <hi>Militia</hi> to the King in this Kingdome, That ſo the King might be induced to caſt himſelfe upon them, and preſume to come in upon their intereſt: hereup<g ref="char:EOLhyphen"/>on the King as hee ſaid at <hi>Ouburne,</hi> accepted his beſt bargaine, and tooke their proffer who bad moſt for him; and then the tenders of the Lieutenant Generall being rejected, hee was neceſſitated to ingage with this Honourable houſe in thoſe Votes, that there ſhould neither any addreſſes be made further to him, nor any re<g ref="char:EOLhyphen"/>ceived from him. And when I conſider how zealouſly Commiſſary Generall <hi>Ire<g ref="char:EOLhyphen"/>ton</hi> hath formerly endeavoured the renewing addreſſes unto the King, and that there ſhould be another manner of addreſſe made to him, then was by the Propo<g ref="char:EOLhyphen"/>ſions ſent to <hi>Newcaſtle,</hi> and when hee was reflected upon by ſome of the Gene<g ref="char:EOLhyphen"/>rall Councell at <hi>Putney,</hi> as having occaſioned the ſence of the Army to be miſ<g ref="char:EOLhyphen"/>repreſented to this Honourable houſe, <hi>viz.</hi> That it deſired a new addreſſe to be made to the King; hee profeſſed that if he did not thinke it to be the ſence of the Army, hee would loath and abhorre the Army and deteſt to continue with them for a day: When I conſider theſe things, and mind that the ſame Gentleman ſhould be the firſt or ſecond man in this Honourable houſe, which ſhould move that no more addreſſes ſhould be made to or received from the King, I cannot i<g ref="char:EOLhyphen"/>magine that this ſo great a turne ſhould be upon any other then a private intereſt.</p>
+            <p>After this, one at the meeting moved a Queſtion, <hi>viz.</hi> Whether it be not needfull to frame ſomething ſpeedily to preſent to the Parliament, to incourage them to proceed according to thoſe good Votes againſt the King, late paſſed, the rather, becauſe the large Petition will be a long time before it be preſented.</p>
+            <p>Unto this I anſwered, That I conceived the large Petition contained thoſe Principles upon which this Honourable houſe muſt proceed in caſe thoſe late Votes be proſecuted, and doubtleſſe that Petition is knowne to be abroad by every active Member of this Honourable houſe, and in caſe the people ſhall free<g ref="char:EOLhyphen"/>ly joyne in that Petition, it will more ſtrengthen their hands in their effectuall proceedings according to the late Votes, then any Paper ſubſcribed onely with Three or foure or 5000 Men.</p>
+            <p>Some other contingent diſcourſe paſſed and ſomething like to that which this Informer falſly averres to be ſpoken by me, was ſpoken by another Gentleman in the meeting, viz. <hi>He ſaid, that ſome which were neere to ſome Lords had beene that day with me, and toled me that ſome Lords were willing that their Legiſlative Power which they exerciſe ſhould not diſcend to their Poſterities as an inheritance, that they could freely part with their Priviledge or Freedome from Areſts and be ſub<g ref="char:EOLhyphen"/>ject to the Law, to be compelled as others may in caſe of default to pay their</hi> 
+               <note n="*" place="margin">This was the only thing which Mr. <hi>Ma<g ref="char:EOLhyphen"/>ſterſon</hi> inform<g ref="char:EOLhyphen"/>ed againſt me to my face at y<hi rend="sup">e</hi> houſe of Com<g ref="char:EOLhyphen"/>mon<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Barre, which if it were true, were no crime, yet the thing is falſe as to me, being not ſpoken by me.</note> 
+               <hi>Debts.</hi>
+            </p>
+            <pb n="9" facs="tcp:117602:6"/>
+            <p>One paſſage more J remember I heard from ſome in the meeting, <hi>viz.</hi> That the large Petition did coſt money for the Printing, and whoſoever pleaſed might contribute either Two-pence, 6. d. or 12. d. toward the charges that were incident to Printing and diſperſing.</p>
+            <p>This is the ſumme and effect of what I ſpake at the Houſe of Commons barre and I could not then remember any other materiall paſſage in diſcourſe, or any other conſiderable circumſtance at the meeting; yet by recollecting my thoughts I remember a paſſage or two more, <hi>viz.</hi> One at the meeting inquired of L. Co<g ref="char:EOLhyphen"/>lonel <hi>Lilburne,</hi> whether there was any truth in the rumour, that the Lords had ſent to him to offer him 3000. l. to deſiſt the promotion of the <note n="c" place="margin">This <hi>qu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> the informer changed to an affirmation with a large addition, aver<g ref="char:EOLhyphen"/>ring that L. C. <hi>Lilburne</hi> ſhould ſay, that the Lords had offe<g ref="char:EOLhyphen"/>red him 3000 pounds to deſiſt fro<g ref="char:cmbAbbrStroke">̄</g> promoting the large Peti<g ref="char:EOLhyphen"/>tion.</note> large Petition; but Lieut. Colonel <hi>Lilburne</hi> anſwered, That it was a falſe groundleſſe report, nei<g ref="char:EOLhyphen"/>ther did hee imagine what ſhould be the originall or occaſion of that rumour, un<g ref="char:EOLhyphen"/>leſſe it were this; That a Lord ſent to him in relation to his particular buſineſſe, to tell him, that he conceived hee ſuffered much want and hardſhip by the Lords, and that he could not but be reduced to a neceſſitous condition by his Impriſonment; and therefore he had a conſiderable token for him if hee thought it would be ac<g ref="char:EOLhyphen"/>cepted as love, and not diſpiſed: to this ſaid he, I anſwered, that any favour could not but be an ingagement to an ingenious ſpirit to ſerve the Donor, and that hee would not be ingaged to any Pattentee Lord who claimed a right to the Law-giv<g ref="char:EOLhyphen"/>ing Power, by vertue of a Patent from the King; but if that Lord would reject his Patentee Lordſhip, and be content to be choſen by his Country as a Knight of the Shire, hee ſhould then accept the ſmalleſt token of his Love, if it were but five ſhillings.</p>
+            <p>One thing more comes to my mind, <hi>viz.</hi> Lieut. Colonel <hi>Lilburne</hi> ſpeaking of the neceſſity of uniting all ſorts of people in the Principles of Freedome, which are of common concernment, and that hee conceived there was no other poſſible way to prevent confuſion; he added, that if God ſhould not ſuffer it to be preven<g ref="char:EOLhyphen"/>ted, yet in a generall confuſion hee was confident, that thoſe who ſhould be knowne to have promoted the Large Petition, which equally concerned the good of all men ſhould be more ſafe then hee that ſhould weare a blew <hi>Ribband</hi> in his <note n="f" place="margin">This I heare the In<g ref="char:EOLhyphen"/>former turned thus, that L. C. <hi>Lilburne</hi> ſhould ſay, That hee intended to raiſe the People, and that his friends ſhould have the Large Petiti<g ref="char:EOLhyphen"/>on in their hands and blue Ribbands in their Hats.</note> Hat.</p>
+            <p>Curteous Reader, thou haſt now the impartiall narrative of all the Paſſages of that meeting, where the common bruit of the unworthy <hi>Pamphletiers</hi> ſay, ſuch a dangerous Deſigne was layd; I wiſh the moſt piercing Eagle-eye would make the exacteſt ſearch into all my diſcourſe, and demeanours in this buſineſſe, and diſ<g ref="char:EOLhyphen"/>cover to me an <hi>erratum</hi> according to the rigour of the Law or Juſtice, even in the leaſt <hi>Punctilio.</hi> The Informer charged me with no colourable crime, though whatſoever he ſaid to my face had been true in every <hi>punctum;</hi> and as for Wit<g ref="char:EOLhyphen"/>neſſes none were called or examined (though the <hi>Diurnall</hi> mans Pen could beare no true inke in that particuler) yet thoſe two Perſons whom the informer
+<pb n="10" facs="tcp:117602:7"/> brought as pretended <hi>Witneſſes,</hi> confeſſed as I can prove by Oath; <hi>That there was nothing ſpoken at the Meeting for which J am accuſed, but what rended to advance the Parliaments honour, or words to that effect.</hi>
+            </p>
+            <p>But upon what inviſible grounds I know not, in the Evening this enſuing Or<g ref="char:EOLhyphen"/>der paſſed the Houſe.</p>
+            <floatingText xml:lang="eng" type="indictment">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>Diae Mercurii 19 Januar. 1647.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>ITs this day reſolved upon the Qneſtion by the Commons in Parliament aſſembled, That Mr.</hi> Iohn Wildman <hi>be Committed to the</hi> Fleet <hi>in Order to his tryall according to Law, for treaſonable and ſeditious Practi<g ref="char:EOLhyphen"/>ſes againſt the State.</hi>
+                  </p>
+                  <closer>
+                     <signed>Hen. Elſinge Cler. Parl. Dom. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>In proſecution of this Order Mr. Speaker iſſued forth to the Serjeant at Armes this enſuing Warrant.</p>
+            <floatingText xml:lang="eng" type="warrant">
+               <body>
+                  <p>
+                     <hi>BY vertue of an Order of the Houſe of Commons, theſe are to require you to re<g ref="char:EOLhyphen"/>ceive from the Serjeant at Armes, or his Deputy, the body of Mr.</hi> John Wild<g ref="char:EOLhyphen"/>man <hi>into the Priſon of the</hi> Fleet, London; <hi>and him there to detaine in ſafe Cu<g ref="char:EOLhyphen"/>ſtody as your Priſoner in order to his tryall according to Law, for treaſonable and ſe<g ref="char:EOLhyphen"/>ditious Practiſes againſt the State, untill the pleaſure of the Houſe bee further ſigni<g ref="char:EOLhyphen"/>fied. And for ſo doing this ſhall be your Warrant.</hi>
+                  </p>
+                  <closer>
+                     <dateline>Dat. <date>
+                           <hi>19 Ianuary, 1647.</hi>
+                        </date>
+                     </dateline>
+                     <signed>WILLIAM LENTHALI, <hi>Speaker.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The Serjant at Armes ſending this warrant, I refuſed to ſerrender my Liberty unleſſe he would force it from me becauſe I conceived the warrant to be illegall; and upon the ſame account, I refuſed alſo the next day, untill force was brought: though then that clauſe, <hi>vntill the pleaſure of the Houſe be further ſignified, was ex<g ref="char:EOLhyphen"/>pnnged:</hi> and then I told them that if Theefes meet me upon <hi>Newmarket</hi> Heath and will have my Purſe, if they be too ſtrong for me: I judge it wiſdome to ſur<g ref="char:EOLhyphen"/>render my Purſe, rather then hazard my life; and I proteſt here I yeeld to you my Liberty upon the ſame reaſon only.</p>
+            <p>Now leaſt this my deportment, ſhould be matter of offence to any, or ſcand<g ref="char:EOLhyphen"/>all to my ſelfe, as if I ſleighted that ſupreame Authority of Parliament, which I have ſo vigoruſly contended to maintaine; I ſhall give a faithfull account of the reaſon of my demeanour.</p>
+            <p>Firſt, there was no ſhadow of a Legall crime; not ſo much as a miſdemeanour objected to my face againſt me by the informer: and to this I may add, that though the information had been of ſomthing criminall, yet being onely a verball,
+<pb n="11" facs="tcp:117602:7"/> uncertaine information, or ſuggeſtion, its contrary to <hi>Magna Charta,</hi> to the Stat. of 5. Ed. 3. 9. 2 of Ed. 3. 4, 28. Ed. 3. 3. 42. Ed. 3. 3. that my Liberty ſhould be taken from me upon that ground only, and hereupon I deſired on Thurſday, the 20 of <hi>Ian.</hi> onely ſomuch favour, as to be heard ſpeake for my ſelfe in this particular.</p>
+            <p>Secondly, Suppoſe a crime had been objected againſt me, yet the warrant for my commitment was wholly illegall.</p>
+            <p>Let me not be miſtaken, as if I intended to bound the power and juriſdiction of Parliament any further, then common equity and reaſon limits them, which is naturally implied, and ſuppoſed to be a Law to Legiſlators, even from that annal<g ref="char:EOLhyphen"/>logy, which all bodys politick hold with the naturall, whence all governours and governments borrow a proportionable reſpect; hence I conceive that an act of parliament againſt common right or reaſon, or repugnant, or impoſſible, to be performed, is null and voyd in it ſelfe: as ſuppoſing an act of Parliament ſhould be made to conſtitute a man judge in his own caſe, it were voyd in it ſelfe, and I judge this to be the ground of executing that exemplary juſtice upon <hi>Empſon,</hi> and <hi>Dudley,</hi> for putting in execution that Act of Parliament in the 11 of <hi>Hen.</hi> 7. <hi>C.</hi> 3. that Act of Parliament was againſt common equity and reaſon, the words are theſe, be it enacted that the <hi>Iuſtices of the Aſſizes, and Iuſtices of the peace upon information for the King, before them to be made, have full power and Authori<g ref="char:EOLhyphen"/>ty by their deſcretion to heare and determine all offences and contempts,</hi> &amp;c. <note n="g" place="margin">See <hi>Cookes</hi> Inſtit. 4. part. pag. 40.</note> Firſt, here the Iuſtices were authoriſed to proceed upon <hi>information,</hi> without any <hi>indict<g ref="char:EOLhyphen"/>ment;</hi> ſecond, to judge by their <hi>diſcretion</hi> and not according to the <hi>Law</hi> and cu<g ref="char:EOLhyphen"/>ſtome of England, as all proceedings ought to be, now this being againſt com<g ref="char:EOLhyphen"/>mon right and reaſon, the Act was null and voyd in it ſelfe, and <hi>Empſon,</hi> and <hi>Dudley,</hi> Iuſtices, died juſtly, for what they did according to this Act, as though there had been no ſuch Act.</p>
+            <p>Nevertheleſſe I conceive the maxime that this Parliament declared in their Remonſtranee of <hi>May</hi> 26. 1642 book decl. p. 281. ſtands impregnable, viz. <hi>that thoſe which ſhall guide themſelves by the judgement of Parliament, ought whatſo<g ref="char:EOLhyphen"/>ever happen to be ſecure and free from all account and penaltys;</hi> but it is naturally, and neceſſarily ſuppoſed, that the judgement of Parliament cannot be againſt common equity or reaſon: as when the Law made it petty treaſon for a ſervant to kill his maſter, it was not made ſuch a hanious crime for a child to kill his fa<g ref="char:EOLhyphen"/>ther; the reaſon was, becauſe the Law ſuppoſed it to be a thing ſo abhorred of na<g ref="char:EOLhyphen"/>ture, that ſuch a fact would never be committed and likewiſe its not to be ſup<g ref="char:EOLhyphen"/>poſed that the judgement of Parliament ſhould be contrary to common reaſon or equity, and therefore ſuch limitations are not expreſſed in any maximes relating to the power of Parliaments; yet they are neceſſarily implied: but I beleeve the freedomes of this Nation will never be ſecure untill the extent of the power and truſt of the peoples repreſentatives, and the peoples reſervations to themſelves be clearely declared; This I ſpeake in referrence to their legiſlative power, of which
+<pb n="12" facs="tcp:117602:8"/> onely I conceive that maxime in the Law concerning the Parliament is to be un<g ref="char:EOLhyphen"/>derſtood, <hi>viz. Leges latent in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ectoribus,</hi> the Laws are hidden in the Parliaments breſts.</p>
+            <p>But as to the Parliaments power in <hi>executing Lawes,</hi> upon ſuch offenders as do properly and originally come under their cognizance, in my humble opinion they are obliged to proceed in the <hi>legall</hi> and <hi>ordinary</hi> way of putting the <hi>Lawes in execution,</hi> this Sr. <hi>Edw. Cooke,</hi> 4 part inſtit. p. 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. expreſſely affirmes; ſaith he; <hi>Where by order of Law a man cannot be <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tainted of high treaſon, unleſſe the offence be in Law high treaſon, he ought not to be attainted by generall words of high treaſon by authority of Parliament, but the high treaſon ought to be ſpecially expreſſed.</hi> And when King <hi>Hen.</hi> eight, enquired of the chiefe Iuſtices, whether a man that was <note place="margin">(h) See <hi>Cooke,</hi> inſtit. 4. part. 137.</note> forth coming, ought to be attained of high treaſon by <hi>Parliament,</hi> and never called to his anſwere? the Iudges anſwered, <hi>that the high Court of Parliament ought to give examples to inferiour Courts in proceeding according to Iuſtice;</hi> no inferiour Court could doe the like. Let their judgement be duly obſerved, they ſaid no in<g ref="char:EOLhyphen"/>feriour Court could ſo proceed, and therefore muchleſſe the Parliament; who ought ſo to obſerve the <hi>Laws and rules of juſtice,</hi> as to be <hi>patternes</hi> of <hi>juſtice to o<g ref="char:EOLhyphen"/>ther Courts,</hi> and the rather, becauſe from them there is no <hi>appeale;</hi> ſo that the ar<g ref="char:EOLhyphen"/>gument is a <hi>minor ad majus.</hi>
+            </p>
+            <p>Indeed the high Court of Parliament hath a power of <hi>declaring the Law in particular caſes,</hi> before them; and they ſay <hi>they have not claimed it nor exerciſed it otherwiſe, to be obligatory as a Judiciall declaration of the Law</hi> 
+               <note n="i" place="margin">See the Parlm. Rem. of <hi>May</hi> 26 1 part book de. p. 721.</note> but obſerve: this power is to be exerciſed about Lawes which may be taken by way of <hi>conſequence, equity</hi> or <hi>conſtruction,</hi> not about <hi>penall declarative Lawes;</hi> ſuch muſt be taken by the <hi>letter, onely;</hi> otherwiſe they ſhould implie a contradiction to themſelves, and be no more <hi>declarative Lawes</hi> but <hi>Lawes of conſtruction</hi> or <hi>conſtitutive;</hi> ſo that this their judiciall power <hi>in declaring Laws,</hi> exempts them not from an <hi>obligation</hi> to pro<g ref="char:EOLhyphen"/>ceed according to <hi>Law,</hi> in executing any <hi>penall declarative Lawes;</hi> ſuch as are the Lawes againſt <hi>treaſon,</hi> &amp;c.</p>
+            <p>But the Parliaments Legiſlative power hath its exerciſe in this caſe; they may repeale any <hi>penall declarative Law,</hi> or <hi>enact any new Law,</hi> declaring what ſhall be <hi>treaſon</hi> or <hi>petty treaſon,</hi> &amp;c.</p>
+            <p>But every ſuppoſed offender ought to injoye the benefit of <hi>any Law</hi> which was <hi>unrepealed</hi> at the time, of his <hi>ſuppoſed offence;</hi> neither can any <hi>Law enacted after the imagined crime of any man,</hi> be the rule by which ſuch a <hi>criminall perſon</hi> ſhall be <hi>tried or judged,</hi> Rom. 4. the ſcript. ſaith expreſſely, <hi>Where there is no law, there is no tranſgreſſion;</hi> and I may ſay further, where the Law is not <hi>declared</hi> it <hi>bindes not,</hi> nor can any man juſtly ſuffer any puniſhment for the <hi>breach of ſuch a law;</hi> Its a knowne maxime of the Law, <hi>de non exiſtontibus et non ap<g ref="char:EOLhyphen"/>parentibus eadem eſt ratio,</hi> there is no difference between Lawes not made, and Lawes not declared; and therefore of old all the Acts made by any Parliament, were by the Sheriffe of every County of England, <hi>Proclaimed</hi> and <hi>publiſhed</hi> in all
+<pb n="13" facs="tcp:117602:8"/> places through his Bayliwick, and the Kings writt iſſued forth to every Sheriffe to that purpoſe. <note n="k" place="margin">See <hi>Cooks</hi> inſtit 4 par. c. 1, p, 16,</note>
+            </p>
+            <p>Now I conceive I may conclude that the Parliament <hi>ought to proceed</hi> in the or<g ref="char:EOLhyphen"/>dinary, legall, way of <hi>executing</hi> at leaſt the <hi>penall lawes:</hi> and if it were otherwiſe, their were <hi>no law in England during the ſeting of Parliaments:</hi> for if the Lawes which bind to ſuch and ſuch manner of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roceedings be not obligatory to the <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> then no other Laws, which declares offences, and the <hi>penalty</hi> of <hi>offenders,</hi> are <hi>binding;</hi> and conſequently, the Liberty, eſtate and life of every man is ſubject to there <hi>abſolute wills<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> nay ſhould it be granted, that the Parliament may pro<g ref="char:EOLhyphen"/>ceed againſt, and impriſon, try, judge, or cenſure ſuppoſed offenders, <hi>contrary to the kowne laws</hi> and the <hi>ordinary proceedings</hi> therein, all the people are the worſt of <hi>vaſſalls in the time of Parliament,</hi> being in effect without a Law, whereby to put a difference between <hi>good and evill,</hi> between <hi>juſt</hi> and <hi>unjuſt:</hi> and yet being in danger of the loſſe of eſtates, Liberties, &amp; lives, for doing what they conceive moſt purely juſt, in caſe others ſhall judge it unjuſt; Its the Law which is the ſafe<g ref="char:EOLhyphen"/>gard, the cuſtody of all private intereſts: the eſtates, Liberties, and lives of all are in the keeping of the Law.</p>
+            <p>And therefore the Parliament in their Rem. of <hi>May</hi> 26. 1642. 1 book of decl. p. 693. juſtly teſtifies an indignation in their ſpirits againſt that ſcandall which <note place="margin">Reader obſerve that caſes of ne<g ref="char:EOLhyphen"/>ceſſity in time of warre are always to be excepted ne<g ref="char:EOLhyphen"/>ceſſity diſſolves all Lawes and ſuch caſes pro<g ref="char:EOLhyphen"/>ceeding muſt be arbitrary.</note> the King caſt upon them, viz. <hi>that they diſpoſed of all the ſubjects lives and fortunes by their owne votes, contrary to the knowne law of the land:</hi> upon theſe grounds I hope I may ſay without offence, that the <hi>warrant was illegall,</hi> and the illegality was not in a <hi>punctilio</hi> but in the <hi>principle clauſe,</hi> for there is no <hi>particular crime expreſſed in it<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and Sr. <hi>Edw. Cooke,</hi> in the ſecond part of inſtitute, ſaith its the ſpeciall thing required by act of Parliament to make a <hi>Mittimus</hi> legall; that the <hi>cauſe be expreſſed with ſuch convenient certainty as it may appeare judicially that the offence requires ſuch a judgement,</hi> as in caſe a perſon be committed for high treaſon: its not ſufficent that it be expreſſed in the <hi>Mittimus</hi> for <hi>high treaſon,</hi> but it muſt be more particularly <hi>for high treaſon againſt the perſon of the King;</hi> or for <hi>counter<g ref="char:EOLhyphen"/>feiting the broad ſeale,</hi> or the <hi>mony</hi> of the <hi>King</hi> &amp;c and in caſe it be for <hi>petty treaſon,</hi> it ought to be declared in the Mittimus as for the death of <hi>A. B.</hi> his Maſter, and ſo for fellony for the <hi>death</hi> that, <hi>C.</hi> B. or for ſtealing a <hi>horſe,</hi> &amp;c. and its to be ob<g ref="char:EOLhyphen"/>ſerved that an indictmeut ought to rehearſe the effect of the Mittimus, which di<g ref="char:EOLhyphen"/>rectly proveth, that the <hi>cauſe in ſuch a generall certainty ought to be ſhewed,</hi> read <hi>Cooks</hi> expoſition of <hi>Magna Charta</hi> 29 for further ſatisfaction: and that of <hi>Feſtus</hi> in <hi>Act.</hi> 25. 26, 27. is worth obſervation that he ſought for ſome <hi>certaine</hi> thing againſt <hi>Paul</hi> to inſert into his Mittimus, whereby he ſhould be ſent to <hi>Ceſar,</hi> for (ſaith he) <hi>it ſeemes to me unreaſonable to ſend a priſoner and not withal to ſignifie the crimes layd againſt him.</hi>
+            </p>
+            <p>And I cannot but imagine that the Parliament proceeded upon this ground in refuſing to impriſon ſuch as have been <hi>accuſed in generall, of high treaſon,</hi> doubt<g ref="char:EOLhyphen"/>leſſe, with <hi>Feſtus,</hi> they judged it unreaſonable to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſſeize any man
+<pb n="14" facs="tcp:117602:9"/> man of his Liberty without ſuch a particular crime probably at leaſt objected a<g ref="char:EOLhyphen"/>gainſt him, as evidently requires ſuch a judgement; Thus when the Kings At<g ref="char:EOLhyphen"/>tourny Generall exhibited Articles of high Treaſon againſt Mr. <hi>Hollis,</hi> Mr. <hi>Pim,</hi> Mr. <hi>Hampden,</hi> Mr. <hi>Stroud,</hi> and Sir <hi>Arthur Haſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eridgo,</hi> they Petitioned the <note n="l" place="margin">See 1. par. book Decl. pag 52. 65, 67.</note> King twice to diſcover what proofe of thoſe Articles were againſt them, before any proceedings were to be againſt them; and in a third Petition <note n="m" place="margin">See 1 part book Decl. pag 77.</note> they have theſe words; <hi>Whereas by the expreſſe Lawes and Statutes of this Realme, that is to ſay, by two Acts of Parliament, the one made in the 37, and the other in the 38 of</hi> Edw. <hi>the 3. If any whatſoever make ſuggeſtion to the King of any Crime, committed by another; the ſame Perſon ought to bee ſent with the ſuggeſtion before the Chancellor, or Keeper of the Great Seale, Treaſurer, and the Grand Councell, there to find ſurety to purſue his ſuggeſtion; which if hee cannot prove, he is to bee Impriſoned untill hee hath ſatified the Party accuſed of his damages and ſlander, and made fine and Ranſome to the King.</hi> And leaſt it ſhould be ſaid, That this con<g ref="char:EOLhyphen"/>cernes onely Suggeſtors made againſt any to the King himſelfe; Its ſaid in the Statute of the 25 of <hi>Edw.</hi> 3. Chap. 4. That <hi>no man ſhall bee taken by Petition or ſuggeſtion made to the King, or his Councell, &amp;c.</hi> And I am ſure the word <hi>Coun<g ref="char:EOLhyphen"/>cell,</hi> includes the Parliament; And leaſt it ſhould be ſaid, that there ought to be <hi>Particular matter,</hi> and <hi>probable proofes offered</hi> before the Impriſonment of the Members of Parliament: But its a Priviledge peculiar to them: the Parliament hath declared as much in the caſe of <hi>other Perſons,</hi> viz. When the King about <hi>Ianuary,</hi> 1642. in anſwer to the City <hi>Petition,</hi> deſired that Alderman <hi>Penington,</hi> Alderman <hi>Foulk,</hi> Colonel <hi>Ven,</hi> and Colonel <hi>Manwaring,</hi> might bee Commit<g ref="char:EOLhyphen"/>ted to ſafe cuſtody as guilty of <hi>high Treaſon,</hi> that they might bee proceeded a<g ref="char:EOLhyphen"/>gainſt by the courſe of the <note n="n" place="margin">See 1. p. book Decl. pag. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>40, 841.</note> 
+               <hi>Law,</hi> Mr. <hi>Pim</hi> declared to the City by the Command of both Houſes, and <hi>as their Sence,</hi> that <hi>Its against the rules of Iuſtice, that any man ſhould bee Impriſoned upon a generall charge, when no Particulars are</hi> 
+               <note n="o" place="margin">See 1 par. book Decl. pag 845.</note> 
+               <hi>proved againſt them.</hi> And beſides the Priviledge of Parliament men obje<g ref="char:EOLhyphen"/>cted, extends not to <hi>Treaſon, Felony,</hi> or <hi>breach of the Peace;</hi> but in ſuch caſes any Member of Parliament may be <hi>Arreſted</hi> by any <hi>miniſter of Iuſtice,</hi> to the intent hee may be brought to Parliament, <hi>Corpus cum cauſa,</hi> and alſo detayned in ſafe cuſtody till ſuch time, <hi>See 1. part. book Decl. pag.</hi> 723, 724; and there<g ref="char:EOLhyphen"/>fore the Caſe is generally incluſive, and to that purpoſe moſt excellent are the Parliaments words in their Declaration of <hi>May</hi> 19. 1642. 1. p. <hi>book Decl. pag. 201. Wee conceive it a heynous Crime against the Law of nature, againſt the rules of Iuſtice, that innocent men ſhould bee charged with ſo high an offence as Treaſon in the face of the higheſt Iudicatory of the Kindome, without witneſſe, with<g ref="char:EOLhyphen"/>out evidence, without all poſſibility of reparation in a Legall courſe.</hi> 
+               <note n="☞" place="margin">Reader take notice, that the ſingle Infor<g ref="char:EOLhyphen"/>mer againſt me, produced neyther Witneſſe nor evidence of what hee ſaid, and I am left without all poſſibility of reparati<g ref="char:EOLhyphen"/>ons in a legall way; becauſe the Parliament hath taken the firſt cognizance of my ſuppoſed crime and in ſtead of a Iuſtice of Peace committed me to Priſon.</note>
+            </p>
+            <pb n="15" facs="tcp:117602:9"/>
+            <p>And doubtleſſe upon the ſame ground the Parliament refuſed to <hi>ſuſpend from the Houſe,</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d much more to impriſon the 11 Members accuſed by the Army, though 5. Articles <note n="p" place="margin">See the book of the Arm. decl. pag, 47, 48. 49.</note> were <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en in againſt them, v<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>z. 1. <hi>That they had endeavoured to overthrow the rights of the Subiect in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rary wayes, and to delay and obſtruct iuſtice. 2. That they had deluded, ſurprized, and abuſed <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Houſe to provoke the Army to diſtempers, and re<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and the reliefe of Jreland. 3. That they endea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red the pulling the Armie in pieces, to the danger of the Kingdoms peace. 4. That they had en<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>voured to raiſe forces, to liſt, and procure to be liſted, Officers and Souldiers without the authority <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Parliament, to imbroyle the kingdom in blood, for their own deſperate deſignes. 5. That they had <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vited and ab<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tted tumul<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ous Reformado Officers to aſſemble at</hi> Weſtminſter, <hi>to offer violence to, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> enforce the Parliament.</hi> The Houſe voted and declared about the 25. of <hi>June</hi> after the ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>biting this charge: <hi>that by the Lawes of the Land, no iudgement could be given to ſuſpend thoſe <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Members from ſitting in the Houſe before particulars were produced and proofs made.</hi> 
+               <note n="q" place="margin">See the Manifeſto of the Ar<g ref="char:EOLhyphen"/>mie from <hi>Vxbridge Iune</hi> 27. upon theſe Votes book decl. pag. 70.</note>
+            </p>
+            <p>I have thus inlarged my diſcourſe of this particular, to ſatisfie all men that my <hi>deſire of a <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> warrant</hi> or <hi>commitment</hi> was grounded upon the <hi>Parliaments own Declarations,</hi> as well <hi>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aw,</hi> and that malice it ſelf might not dare to adjudge me for that <hi>humble and peaceable deſire,</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> contemner of the authority of Parliament, for the preſervation of which I ſhall run <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch manifold hazzards.</p>
+            <p>Neither was there any neceſſity to ſpeak thus much in relation to what Mr. <hi>Maſterſon</hi> in<g ref="char:EOLhyphen"/>formed againſt me. For he accuſed me of no crime, unleſſe it be a crime to relate to honeſt <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, what <hi>I</hi> heard of the tumu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſneſſe of the <hi>poor in Wiltſhire,</hi> or to tell them what <hi>I</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard ſome <hi>Lords</hi> were willing to condiſcend to, in relation to their priviledges and their <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>giſlative</hi> power, though this latter was fal<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and not ſpoken by me.</p>
+            <p>Now if any ſhall inquire how an order paſſed the Houſe to commit me for <hi>treaſonable and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ious practiſes againſt the State, J</hi> muſt returne an <hi>Jgnoramus:</hi> its tranſcendently above the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſphere of my underſtanding.</p>
+            <p>But leaſt the <hi>griſly aſpect</hi> of <hi>ſuch horrid words</hi> ſeeming to relate to ſome <hi>monſtrous crimes,</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffright or amaze my friends, <hi>I</hi> ſhall give them a briefe account of <hi>treaſon,</hi> which yet is <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>laid to my charge, &amp; what it is in law, and J ſhall not trifle about the derivation of the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord, as from <hi>Trahir,</hi> treacherouſly to betray, &amp;c.</p>
+            <p>All offences which are treaſon, are comprehended <hi>literally and expreſly</hi> in the Stat of 25. <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Edw.</hi> 3. c. 2. And this Statute hath been confirmed, and more honour given to it by Par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ments, then to any other except <hi>Magna Charta:</hi> as the Stat. of the 1. <hi>Hen.</hi> 4. c. 10. Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, that whereas at a Parliament holden 21. <hi>R.</hi> 2. divers pains of Treaſon were ordained <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Statute, in ſo much, as there was no man did know how to behave himſelf to <hi>doe, ſpeak, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſay,</hi> for doubt of ſuch <hi>paines.</hi> Its enacted by the King the Lords and Commons, that in no <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me to come, any treaſon be adjudged of, otherwiſe then it was ordained by the Stat of 25. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d. 3. c. 2. and the Stat. of 1. Ed. 6. c. 12. and 1. <hi>M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Ch.</hi> 1. Seſſ 1. Now all the offences which are contained in that Stat. of 25. Ed. 3. may be divided into ſix <hi>Claſſes,</hi> the firſt con<g ref="char:EOLhyphen"/>cerneth <hi>death,</hi> which is either a compaſſing or imagining the <hi>death of the King, Queen,</hi> or <hi>Prince,</hi> and declaring the ſame by ſome <hi>Covert deed,</hi> or a <hi>killing</hi> and <hi>murthering</hi> ſome <hi>Officer of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtice</hi> in their places, doing their offices, as the <hi>Chancellor, Treaſurer, Juſtices</hi> of the one <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ench and of the other, <hi>Juſtices in O<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re,</hi> &amp;c The 2. kind of Treaſon, is the violation of, or carnall knowing of the <hi>Queen,</hi> the Kings eldeſt <hi>daughter,</hi> or the <hi>Princes wife.</hi> The 3 is, <hi>levy<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g warre</hi> againſt the <hi>King.</hi> The 4. is, <hi>adhering</hi> to the Kings <hi>enemies,</hi> within the Realm or without, and declaring the ſame by Court Act. The 5. is, counterfeiting the <hi>great Seale,</hi> the <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ivie Seale,</hi> the Kings <hi>coyne.</hi> The 6. is, bringing into the Realm <hi>counterfeit money</hi> to the like<g ref="char:EOLhyphen"/>neſſe of the Kings coyne. Now unleſſe an offence be within one of theſe Claſſes or heads its <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> high treaſon. See <hi>Cooks</hi> 3. part, inſt. pag. 3. 4. But let the Reader obſerve, that the King
+<pb n="16" facs="tcp:117602:10"/> in this ſtatute, is taken in hispolitick capacity as he is a man, there is no treaſon can be com<g ref="char:EOLhyphen"/>mitted againſt him, but only as he is a perſon truſted with ſuch high authority, and ſo th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> levying warre againſt the Lawes and authority of the King, is a levying warre againſt th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> King, <note n="r" place="margin">See the Parl. Rem. of <hi>May</hi> 26 book decl. pag. 727.</note> though it be not againſt his perſon, yea, though thoſe who levie the war, have th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> perſonall command of the King for it.</p>
+            <p>This Stat. provided ſufficiently, that the people ſhould have a <hi>cleare rule</hi> whereby to mea<g ref="char:EOLhyphen"/>ſure <hi>their actions in caſe of treaſon,</hi> ſo as to be ſecure from the Judges malice or injuſtice, th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> words are poſitive and excluſive, as to them, <hi>that they ſhall not judge any thing treaſon, which <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not ſpecified in this Act, the word ſpecified</hi> is to be obſerved, which is as much as to ſay <hi>particula<g ref="char:EOLhyphen"/>rized,</hi> or ſet down particularly. But the <hi>ſaluo, that the Judges in caſe of any Act, not particularize<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and ſuppoſed to be treaſon, ſhould defer iudgement, and tranſferre the caſe to the King and Parliamen<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> who might declare it treaſon. This made the rule of the peoples actions, as to Parliaments to be whol<g ref="char:EOLhyphen"/>ly uncertain, this</hi> ſaluo <hi>was like a drawn ſword hanging over every mans head by the ſlender thre<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of a conſequence or illation.</hi> And by this divers were condemned by the <hi>King and Parliament</hi> a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Traytors,</hi> which could not have been condemned by the Statute, one was tranſferred from th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kings Bench to the Parliament in the 8. of <hi>Rich.</hi> the 2. and his fact was adiudged treaſo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and in the 11. of the ſame King <hi>Rich.</hi> 2. the <hi>Duke of Jreland,</hi> and <hi>Nevill Arch Biſhop of Yor<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> were impeached of treaſon by <hi>Gloceſter, Arundell,</hi> and <hi>Warwick,</hi> and though their facts wer<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not treaſon by the Statute; yet by vertue of the <hi>ſaluo</hi> they were convicted of <hi>treaſon,</hi> and i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the 21. of <hi>Rich.</hi> 2. the King and Parliament reverſed that ſentence, and by the ſame <hi>ſalu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> thoſe three Noble men their accuſers were adiudged Traytors, and in the 10. of <hi>Hen.</hi> 4. h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſucceſſor, that revocation of the ſentence againſt the <hi>Duke of Jreland and Nevell</hi> which wa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the 21. of <hi>Rich.</hi> 2. was againe repealed, and the ſentence againſt them, in the 11. of <hi>R.</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was eſtabliſhed, thus by this uncertain <hi>proviſo, treaſon</hi> was toſſed to and fro, and no ma<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> knew when he was ſafe, becauſe the <hi>rule of their actions were uncertaine,</hi> according to the o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> maxime, <hi>miſera ſervitas ubi ius eſt vagum et <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncertam.</hi>
+            </p>
+            <p>But in the Parliament of the 1. H. a petition was preferred to have Treaſon limited with<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in ſome ſtatute, becauſe they knew not what to ſpeak, nor what to do; leaſt it be <hi>adiudged trea<g ref="char:EOLhyphen"/>ſon,</hi> and hereupon was that ſtatute made of the 1. of H. 4. c. 10. whereby that uncertain pro<g ref="char:EOLhyphen"/>viſo was repealed, and it was inacted that in times to come, nothing ſhould be <hi>eſteemed trea<g ref="char:EOLhyphen"/>ſon;</hi> but what was <hi>litterally contained</hi> in the Statute of 25. E. 3. c. 2. And in the 1. of Ma. S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 1. this was confirmed that nothing ſhould be adiudged high Treaſon, pettie Treaſon, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Miſpriſion of Treaſon, but what was <hi>declared and expreſſed</hi> in the 25. of Ed. 3. c. 2. This wo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>expreſſed</hi> ſaith <hi>Cook</hi> 3. part inſtit. p. 24. excludedeth all implications or inferences whatſoe<g ref="char:EOLhyphen"/>ver, <note place="margin">See <hi>Cooks</hi> 3. part inſtit. p. 9.</note> 
+               <hi>Now nihill relictum eſt arbitrio iudicis neque parliamenti,</hi> there is no conſtructive nor i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>terpretative treaſon by arguments, <hi>a minori ad maius,</hi> or a ſimili, either from the like fact, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from the leſſer to the greater. Neither is there any intentionall treaſon, ſaving againſt th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kings life. If perſons ſhould <hi>conſpire</hi> to <hi>levie Warre,</hi> it were no treaſon, for by the Statu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there muſt be levying warre <hi>in facto, actually</hi> before it be <hi>treaſon.</hi>
+            </p>
+            <p>Now in my humble opinion, the King by conſequence or influence cannot iuſtly decla<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the act of any man to be treaſon according to this ſtatute, unleſſe it be contained in the ex<g ref="char:EOLhyphen"/>preſſe letter thereof, and I humbly offer theſe reaſons.</p>
+            <p>1. This Statute is a <hi>declarative Law,</hi> and ſhould it be taken by equity, or conſtruction th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> implyes a contradiction. 2. This is a penall law, and ſuch can admit of no conſtruction or i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ferences. <hi>Penalties</hi> are to perſwade to the <hi>keeping</hi> of <hi>known lawes,</hi> not of <hi>Lawes coniectura<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ambiguous,</hi> and to be taken by <hi>conſequence,</hi> which perhaps the moſt learned Lawyers may n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> imagine to be intended by them, and much leſſe the people. Doubtleſſe they are to concer<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that in caſe they obey the ſtatutes according to the Letter, they are not lyable to any penal<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <pb n="17" facs="tcp:117602:10"/>
+            <p>And J find that the Parliameut in the 13. of <hi>Eliz.</hi> did exactly obſerve this law, that no<g ref="char:EOLhyphen"/>thing ſhould by vertue of the ſtatute <hi>be interpretative treaſon.</hi> They might have very plauſi<g ref="char:EOLhyphen"/>bly have impeached thoſe of treaſon which brought the <hi>Popes Buls from Rome</hi> to ſtir up the <hi>people to mutiny and rebellion,</hi> and to take away the <hi>Queens life,</hi> but this fact was not contained in the preceeding ſtatute, and therefore the perſons not <hi>iuſtly guiltie of treaſon,</hi> ſeeing they tranſgteſſed no declarative law, &amp; yet that Parliament declared it to be treaſon for the time to come, during the Queens life, for any perſon to bring ſuch Bulls from Rome to ſtirre up the people to mutiny. Thus every Parliament may <hi>declare</hi> what <hi>crimes they pleaſe</hi> to bee <hi>treaſon,</hi> but by common reaſon or light of nature, thoſe ſtatutes muſt referre only to <hi>future obedience;</hi> a reall crime committed <hi>before the making of a ſtatute</hi> cannot be a breach of that ſta<g ref="char:EOLhyphen"/>tute becauſe it was not extant, <hi>in rerum natura.</hi>
+            </p>
+            <p>Now let honeſt hearts (which J underſtand be too many) that are troubled at my reſtraint, upon pretence of <hi>treaſonable practiſes,</hi> ſet them J ſay, be ſatisfied from their own reaſon. Let them iudge whether a loving peaceable diſcourſe with honeſt men at a meeting to which J was invited, wherein the ſole purpoſe and intent of our hearts was to <hi>unite</hi> all wel minded peo<g ref="char:EOLhyphen"/>ple in matters of <hi>common concernment,</hi> that the diſtractions of the nation might be healed, and thoſe clouds of blood diverted, which are now impending. Jn which diſcourſe it was laid down as the <hi>principle maxime, that the authoritie of the Commons in Parliament muſt be preſerved and freed from contempt.</hi> Whether this diſcourſe J ſay can be either by the <hi>letter</hi> of the <hi>law treaſonable,</hi> or by conſtruction, if that ſhould be admitted, and malice it ſelf made Judge.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> But ſome may yet inquire, whether J cannot imagine for what crime the Parliament ſhould ſuſpect me?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> I muſt profeſſe, J reckon their reſtraining my perſon <hi>inter arcanu imperij,</hi> amongſt the myſteries of ſtate, and its <hi>opus Herculium,</hi> a work for <hi>Hercules</hi> in my opinion to find the ſuſ<g ref="char:EOLhyphen"/>pected Crime, yet <hi>I</hi> have ercted in my ſelf a new Jnquiſitiou office, for that purpoſe, and J ſhall give you a copy of ſome of the examinations taken.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Interro. </seg>1</label> Were not you ſuſpected for promoting the large petition. </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> This was not objected againſt me by the informer, neither could it be ſaid, that I had ei<g ref="char:EOLhyphen"/>ther ſubſcribed, or procured any to ſubſcribe it: but ſuppoſe I had gained 10000. ſubſri<g ref="char:EOLhyphen"/>bers to that Petition, doubleſſe Petioners cannot be found in the Parliaments catalogue of ſinners, ſure I am, I have ſeene their names in red Characters, for Saints in their Kalender; in the yeare 1642. when the Lords would not concurre in the Ordinance for ſetling the Militia, the Petitioners of Surrey and Hartford ſhire, which in effect, <hi>deſired leave to proteſt againſt thoſe Lords which would not agree to the votes of the Commons,</hi> thoſe Petioners, J ſay were accounted amongſt not the loweſt order of Englands worthyes, and many thou<g ref="char:EOLhyphen"/>ſands of poore about <hi>London,</hi> which petitioned againſt the Malignant faction, and deſired, that <hi>thoſe Peeres which concurred with the Commons in their happy votes, mght be deſired, to ſit and vote with the Commons as one intire body,</hi> though the language of the petition was threatning, ſaying they <hi>ſhould be inforced to lay hold on the next remedie, which was at hand, to remove the di<g ref="char:EOLhyphen"/>ſturbers of their peace, &amp;c.</hi> theſe Petitioners were accounted gallant Engliſh Champions, and their petitions ſent by the Commons to the Lords at a conference, and ſuch Conſtables were checked, as attempted to diſturb the people which met in great multitudes to ſubſcribe petitions againſt things eſtabliſhed by law, and a Juſtice of the peace committed to the <note place="margin">See 1. part book decl. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge 547, 548.</note> Tower for executing a warrant from the Lords, for ſeting watches under p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etence of avoid<g ref="char:EOLhyphen"/>ing Tumults, to hinder the peoples reſorting in great mnltitudes, to the Houſe to preferre petitions, <note n="t" place="margin">See firſt book decl. pag. 532.</note> yea the Lords and Commons both in their Remon. of <hi>May</hi> 26. 1642. acknow<g ref="char:EOLhyphen"/>ledged it to be their duty, to receive petitions, theſe are the words; <hi>we acknowledge, that we have received petitions for the removall of things eſtabliſhed by law, and we muſt ſay, and all that</hi>
+               <pb n="18" facs="tcp:117602:11"/> 
+               <hi>know what belong to the courſe and practiſe of Parliaments, wil ſay, that we OVGHT to do ſo,</hi> 
+               <note n="u" place="margin">See firſt parr book dec. p. 720.</note> and upon the late <hi>London</hi> petition in <hi>Novem.</hi> laſt the Commons declared, <hi>that it was the people<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> right to petition, and their right to iudge of Petitions,</hi> whence it is clearly to be inferred that it is the peoples right to petition, for whatſoever ſeemes good to them though it be really evill, otherwiſe it were not the Parliaments right to judge of their petitions, certainly it is not the Parliaments right to walke contrary to common equity, or to reject the good deſires of the people promoted queſtionles, the Armys eye could not with patience reade in the petition<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the bil of ſcandalous ſinners, An order to ſuppreſſe a petition, was the firſt and the greateſt grievance <note n="w" place="margin">See the repreſen. of the Ar<g ref="char:EOLhyphen"/>mies grie<g ref="char:EOLhyphen"/>vances the decl. of <hi>Iune</hi> 14. &amp; Rem. of <hi>Iune</hi> 23.</note> of the Army, the principal ground whereupon they undertook to oppoſe, &amp; en<g ref="char:EOLhyphen"/>counter with the Parliament, the prejudging petitions, &amp; abuſing petitioners was a principle<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> article in the impeachment of the 11. Members.</p>
+            <p>And in their Remon. of <hi>Jnne</hi> 23. book decl. p. 60. ſpeaking of the Parliaments orde<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſuppreſſe their petitions, and the declaration againſt thoſe which ſhould proceede in it<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they have theſe words; <hi>that ſuch proceedings againſt the Army and others i. e. Lodnon Petitioner<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doe carie with them ſuch a face of injuſtice, arbitrarineſſe oppreſſion and tyranny (as we thinke) is no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be paral<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld in any former proceedings of the moſt arbitrary Court againſt any private men, bu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have brought inſufferable diſhonour upon the Parliament (which we are, and others ought to be ſenſi<g ref="char:EOLhyphen"/>ble</hi> 
+               <note place="margin">x See the 6. of the charge book decl. pag. 83.</note> 
+               <hi>of) hath tended to diſoblige all men from the ſame, and to deſtroy all iust freedome both of Soldiers and Subiects:</hi> without controverſie, the promoting a petition cannot be my ſuppoſed crime<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I may take up the Parliaments owne wordes, with an addition, in the 3 Rem. <hi>May</hi> 26. 1642. book decl. p. 281. <hi>viz. that thoſe that ſhall guide themſelves by the iudgement of</hi> Parliament <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and the Army alſo) <hi>ought whatever happens to be ſecure, and free from all accounts, and penalties, upon the grounds of equity<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Stat. of the 11. of Hen. 7. chap. 1.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Interro. </seg>2</label> But might there not be ſuſpition that you would have raiſed tumults.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> All which the Informer ſaid againſt me at the barre, were no premiſes from whence ſuch a concluſion could be inferred, but let my relation of the diſcourſe at the meeting be obſerved: was not the prevention of Tumult<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the maine principally in my eye? was it not the Center wherein al the lines of my diſcourſe were terminated? was it not for that end, that J pleaded ſo ſtrongly, the neceſſity of preſerving the viſible authority of the Com<g ref="char:EOLhyphen"/>mons in Parliament from contempt? was it not to that Intent, that I exho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted the people, to endeavour the union, of all well minded People, and healing diviſions? Certainly he muſt come from the <hi>Antipodes</hi> or look through a <hi>Magick Glaſſe,</hi> that ſhall Iudge ſuch Diſcourſes or Endeavours to occaſion Tumults.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Intetro. </seg>3</label> But might you not be ſuſpected for undermining the Lords lawgiving power.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> My diſcourſe was no other, then a paraphraſe upon the Parliaments owne declaration of <hi>May</hi> 26. 1642. which declared in effect that according to the Kings oath, neither the King nor Lords had a right or libertie of diſſenting from the Lawes, which the Commons ſhall chuſe; and by conſequence their aſſent is of no validity, and while the Parliaments words are my text, and my concluſion rightly inferred: they are my guide, and ſo I am free from ac<g ref="char:EOLhyphen"/>count, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut however there is neither Law nor equity, which renders me accountable for ſpeaking my opinion o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the peoples native freedome, and of the incroachments upon it.</p>
+            <p>To conclude I muſt profeſſe that upon the moſt rigid examination of my ſelfe, I am not conſcious to my ſelfe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the preſent matters any tranſgreſſion of the law of God or Man, in the leaſt puncti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>io neither in action or in<g ref="char:EOLhyphen"/>tention, unles it be a crime that <hi>I</hi> was too ſolicitous for the welfare of the common-wealth even to the total neg<g ref="char:EOLhyphen"/>lect of my private occaſions, or unleſſe it be a crime to extend my utmoſt powers, to prevent the imminent dan<g ref="char:EOLhyphen"/>ger of confuſion to the whole nation, or to unite the people in the common principles of ſpirituall and civill free<g ref="char:EOLhyphen"/>dome, or unleſſe I miſtooke the meanes to theſe happy end, which <hi>I</hi> conceived was to ſupport and preſerve from contempt, the authority of the Commons in Parliament.</p>
+            <p>Yet if any Eagle eye can diſcover an <hi>erratum</hi> in my actions, or intentions, let him reprove me ſharply, and thoſe <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Hic me<g ref="char:EOLhyphen"/>rus abene<g ref="char:EOLhyphen"/>nus eſt.</hi>
+               </note> words of reproofe ſhall be as pretious ointment, and untill then J ſhall perſiſt in my opinion, that it is the duty of every one which is faithfull to God and his Country, to endeavour the union of the people in deſires of immedi<g ref="char:EOLhyphen"/>ate ſetlement of the foundations of common freedome, for the conſciences and eſtates of all men equally, this on<g ref="char:EOLhyphen"/>ly can prevent the inſinuations of the Royall and Epiſcopall party and prove a bullwarke within a wall <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>braſſe about the Nation.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
